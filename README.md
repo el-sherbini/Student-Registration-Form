@@ -1,6 +1,5 @@
 # Student-Registration-Form
 > A Reactjs application with Firebase as a task for Next Level Technology company to register students in courses.
-> Live demo [_here_](https://student-registration-reactjs.netlify.app/). if you blocked according to too many requests in firebase, you can use testing phone number (+201111111111) and testing verification code (123456).
 
 ## Installation and Setup Instructions
 
